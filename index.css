@@ -1,0 +1,146 @@
+#f1{
+    background-image: url("./images/img4.jpg");
+    background-size:cover;
+    height: 1000px;
+    width: 1529px;
+}
+
+h1{
+    color: goldenrod;
+    margin-left: 5%;
+}
+h2{
+    color: goldenrod;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+h3{
+    color: goldenrod;
+}
+#ol{
+    background-color: #431e04;
+    height: 1000px;
+    width: 1529px;
+    
+}
+
+#jk{
+    background-color:rgb(57, 26, 4);
+    height: 500px;
+    width: 740px;
+    text-align: center;
+    margin-top: -20px;
+    
+}
+div img{
+    height: 514px;
+    margin-left: 740px;
+    margin-top: 0px;
+}
+#l{
+    margin-top: -260px;
+    height: 583px;
+    width: 1530px; 
+    background-color: #431e04;
+}
+.fb{
+    background-color: goldenrod;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+}
+.am{
+    background-color: rgb(231, 224, 224);
+    margin-left: 79px;
+    margin-top: -21px;
+    height: 310px;
+    width: 200px;
+    border-color: black;
+    border-radius: 18px;
+    border-width: 50px;
+}
+.price{
+    text-align: center;
+    color: goldenrod;
+}
+.coffe_list{
+    height: 200px;
+    width: 150px;
+    margin-left: 20px;
+}
+.ic{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 359px;
+}
+.cp{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 643px;
+}
+.cb{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 923px;
+}
+.decaf{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 1201px;
+}
+.Espresso{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: 0px;
+    margin-left: 77px;
+}
+.Flagwhite{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 358px;
+}
+.Flatwhite{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 644px;
+}
+.Latte{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 926px;
+}
+.NitroColdBrew{
+    background-color: rgb(231, 224, 224);
+    height: 310px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: -332px;
+    margin-left: 1201px;
+}
+#i{
+    color: goldenrod;
+    text-align: center;
+}
